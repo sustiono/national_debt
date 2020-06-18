@@ -2,11 +2,18 @@
 
 Scrap national GDP from https://worldpopulationreview.com/countries/countries-by-national-debt/ using Scrapy
 
+## Requirements
+```
+python 3.8
+pip 28.1
+```
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install some packages needed.
 
 ```bash
+cd national_debt
 pip install -r requirements.txt
 ```
 
