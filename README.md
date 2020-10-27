@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Choose one of the commands below to get the results in the desired format
 
 ```bash
-scrapy crawl countries -o world_population.csv
-scrapy crawl countries -o world_population.json
-scrapy crawl countries -o world_population.xml
+scrapy crawl gdp_debt -o world_population.csv
+scrapy crawl gdp_debt -o world_population.json
+scrapy crawl gdp_debt -o world_population.xml
 ```
